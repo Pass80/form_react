@@ -1,0 +1,17 @@
+.form {
+    width: 70%;
+    padding: 3rem;
+    margin-top: 8rem;
+    margin-inline: auto;
+    background-color: #939191;
+}
+
+.inputs {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.inputs input {
+    height: 2rem;
+    font-size: 1rem;
+}
